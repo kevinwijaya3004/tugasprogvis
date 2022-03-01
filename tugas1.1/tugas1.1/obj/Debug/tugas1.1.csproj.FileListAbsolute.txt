@@ -1,0 +1,6 @@
+C:\Users\user\Documents\SharpDevelop Projects\tugas1.1\tugas1.1\bin\Debug\tugas1.1.exe.config
+C:\Users\user\Documents\SharpDevelop Projects\tugas1.1\tugas1.1\bin\Debug\tugas1.1.exe
+C:\Users\user\Documents\SharpDevelop Projects\tugas1.1\tugas1.1\bin\Debug\tugas1.1.pdb
+C:\Users\user\Documents\SharpDevelop Projects\tugas1.1\tugas1.1\obj\Debug\tugas1.1.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\tugas1.1\tugas1.1\obj\Debug\tugas1.1.exe
+C:\Users\user\Documents\SharpDevelop Projects\tugas1.1\tugas1.1\obj\Debug\tugas1.1.pdb
